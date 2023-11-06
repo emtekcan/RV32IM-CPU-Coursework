@@ -1,0 +1,5 @@
+![Alt text](images/gaussian.gif)
+![Alt text](images/sine.gif)
+![Alt text](images/noisy.gif)
+![Alt text](images/triangle.gif)
+![Alt text](images/Pipelined%20F1.gif)
